@@ -1,2 +1,2 @@
 # others
-[SZAKDOLGOZAT SPECIFIKÁCIÓK](https://docs.google.com/document/d/1Ibcoaor3F0-H3HoQ__S_1-TJu3bi8KkvZY6Q2pAjAks/edit?usp=sharing)
+[SZAKDOLGOZAT SPECIFIKÁCIÓK](https://docs.google.com/document/d/e/2PACX-1vQGrIN_FE350mGddcSFreGNS8bQFb1wwqTCvuMl8wVSpnXEt8DCBFPUkk09WE5_uw/pub)
