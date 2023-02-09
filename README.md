@@ -3,4 +3,4 @@
 
 [ER Modell](https://drive.google.com/file/d/1t9M58bwZVSsM0d6_AlPPXb-jIJpU6NCZ/view?usp=sharing)
 
-[Diagram](https://drive.google.com/file/d/1FpCBa_lwygRxZYVgxEwV14F_s1w1jpRs/view?usp=sharing)
+[Diagram](https://drive.google.com/file/d/1vpNYu9ACb8WhycHA-I8OgRgIG6nsqJW9/view)
